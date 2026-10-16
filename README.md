@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 # Hi, Ning is here.
 
-M.S. in Astronomy · B.S. in Computer Science
+- M.S. in Astronomy · B.S. in Computer Science
 
-🔭 Interests: Radio Astronomy, Solar Physics
-
-Currently looking for full-time positions
+- Interests: Radio Astronomy, Solar Physics
