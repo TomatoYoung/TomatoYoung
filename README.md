@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, Ning is here.
+# Hi, Yang Jianing is here.
 
 - M.S. in Astronomy · B.S. in Computer Science
 
