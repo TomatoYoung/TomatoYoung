@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 - Interests: Radio Astronomy, Solar Physics
 
-- Currently looking for full-time positions and research assistant opportunities.Feel free to email me.
+- Currently looking for full-time positions and research assistant opportunities. Feel free to email me.
