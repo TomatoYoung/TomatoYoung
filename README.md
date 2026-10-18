@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 - M.S. in Astronomy · B.S. in Computer Science
 
-- Interests: Radio Astronomy, Solar Physics
+- Interests: Radio Astronomy, Solar Physics, AI Agent Systems, Scientific Python
 
 - Currently looking for full-time positions and research assistant opportunities. Feel free to email me.
